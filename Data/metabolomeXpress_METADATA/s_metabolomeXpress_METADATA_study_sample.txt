@@ -1,0 +1,41 @@
+01 RW rc 0h	Rice	Growth Chamber_Rice	4 d Air	Coleoptile_0	NoPooling	51	milligrams fresh weight	01 RW rc 0h
+02 RW rc 0h	Rice	Growth Chamber_Rice	4 d Air	Coleoptile_0	NoPooling	55	milligrams fresh weight	02 RW rc 0h
+03 RW rc 0h	Rice	Growth Chamber_Rice	4 d Air	Coleoptile_0	NoPooling	65	milligrams fresh weight	03 RW rc 0h
+04 RW rc 0h	Rice	Growth Chamber_Rice	4 d Air	Coleoptile_0	NoPooling	69	milligrams fresh weight	04 RW rc 0h
+05 RW rc 0h	Rice	Growth Chamber_Rice	4 d Air	Coleoptile_0	NoPooling	72	milligrams fresh weight	05 RW rc 0h
+06 RW rc 4h	Rice	Growth Chamber_Rice	4 d Air + 4 h N2	Coleoptile_4	NoPooling	66	milligrams fresh weight	06 RW rc 4h
+07 RW rc 4h	Rice	Growth Chamber_Rice	4 d Air + 4 h N2	Coleoptile_4	NoPooling	77	milligrams fresh weight	07 RW rc 4h
+08 RW rc 4h	Rice	Growth Chamber_Rice	4 d Air + 4 h N2	Coleoptile_4	NoPooling	81	milligrams fresh weight	08 RW rc 4h
+09 RW rc 4h	Rice	Growth Chamber_Rice	4 d Air + 4 h N2	Coleoptile_4	NoPooling	67	milligrams fresh weight	09 RW rc 4h
+10 RW rc 4h	Rice	Growth Chamber_Rice	4 d Air + 4 h N2	Coleoptile_4	NoPooling	74	milligrams fresh weight	10 RW rc 4h
+11 RW rc 8h	Rice	Growth Chamber_Rice	4 d Air + 8 h N2	Coleoptile_8	NoPooling	59	milligrams fresh weight	11 RW rc 8h
+12 RW rc 8h	Rice	Growth Chamber_Rice	4 d Air + 8 h N2	Coleoptile_8	NoPooling	62	milligrams fresh weight	12 RW rc 8h
+13 RW rc 8h	Rice	Growth Chamber_Rice	4 d Air + 8 h N2	Coleoptile_8	NoPooling	61	milligrams fresh weight	13 RW rc 8h
+14 RW rc 8h	Rice	Growth Chamber_Rice	4 d Air + 8 h N2	Coleoptile_8	NoPooling	68	milligrams fresh weight	14 RW rc 8h
+15 RW rc 8h	Rice	Growth Chamber_Rice	4 d Air + 8 h N2	Coleoptile_8	NoPooling	74	milligrams fresh weight	15 RW rc 8h
+16 RW rc 24h	Rice	Growth Chamber_Rice	4 d Air + 24 h N2	Coleoptile_24	NoPooling	69	milligrams fresh weight	16 RW rc 24h
+17 RW rc 24h	Rice	Growth Chamber_Rice	4 d Air + 24 h N2	Coleoptile_24	NoPooling	57	milligrams fresh weight	17 RW rc 24h
+18 RW rc 24h	Rice	Growth Chamber_Rice	4 d Air + 24 h N2	Coleoptile_24	NoPooling	88	milligrams fresh weight	18 RW rc 24h
+19 RW rc 24h	Rice	Growth Chamber_Rice	4 d Air + 24 h N2	Coleoptile_24	NoPooling	70	milligrams fresh weight	19 RW rc 24h
+20 RW rc 24h	Rice	Growth Chamber_Rice	4 d Air + 24 h N2	Coleoptile_24	NoPooling	73	milligrams fresh weight	20 RW rc 24h
+1 RW wc 0h	Wheat	Growth Chamber_Wheat	4 d Air	Coleoptile_0	NoPooling	56	milligrams fresh weight	1 RW wc 0h
+2 RW wc 0h	Wheat	Growth Chamber_Wheat	4 d Air	Coleoptile_0	NoPooling	50	milligrams fresh weight	2 RW wc 0h
+3 RW wc 0h	Wheat	Growth Chamber_Wheat	4 d Air	Coleoptile_0	NoPooling	50	milligrams fresh weight	3 RW wc 0h
+4 RW wc 0h	Wheat	Growth Chamber_Wheat	4 d Air	Coleoptile_0	NoPooling	57	milligrams fresh weight	4 RW wc 0h
+5 RW wc 0h	Wheat	Growth Chamber_Wheat	4 d Air	Coleoptile_0	NoPooling	57	milligrams fresh weight	5 RW wc 0h
+6 RW wc 4h	Wheat	Growth Chamber_Wheat	4 d Air + 4 h N2	Coleoptile_4	NoPooling	54	milligrams fresh weight	6 RW wc 4h
+7 RW wc 4h	Wheat	Growth Chamber_Wheat	4 d Air + 4 h N2	Coleoptile_4	NoPooling	62	milligrams fresh weight	7 RW wc 4h
+8 RW wc 4h	Wheat	Growth Chamber_Wheat	4 d Air + 4 h N2	Coleoptile_4	NoPooling	52	milligrams fresh weight	8 RW wc 4h
+9 RW wc 4h	Wheat	Growth Chamber_Wheat	4 d Air + 4 h N2	Coleoptile_4	NoPooling	52	milligrams fresh weight	9 RW wc 4h
+10 RW wc 4h	Wheat	Growth Chamber_Wheat	4 d Air + 4 h N2	Coleoptile_4	NoPooling	67	milligrams fresh weight	10 RW wc 4h
+11 RW wc 8h	Wheat	Growth Chamber_Wheat	4 d Air + 8 h N2	Coleoptile_8	NoPooling	63	milligrams fresh weight	11 RW wc 8h
+12 RW wc 8h	Wheat	Growth Chamber_Wheat	4 d Air + 8 h N2	Coleoptile_8	NoPooling	53	milligrams fresh weight	12 RW wc 8h
+13 RW wc 8h	Wheat	Growth Chamber_Wheat	4 d Air + 8 h N2	Coleoptile_8	NoPooling	56	milligrams fresh weight	13 RW wc 8h
+14 RW wc 8h	Wheat	Growth Chamber_Wheat	4 d Air + 8 h N2	Coleoptile_8	NoPooling	56	milligrams fresh weight	14 RW wc 8h
+15 RW wc 8h	Wheat	Growth Chamber_Wheat	4 d Air + 8 h N2	Coleoptile_8	NoPooling	55	milligrams fresh weight	15 RW wc 8h
+16 RW wc 24h	Wheat	Growth Chamber_Wheat	4 d Air + 24 h N2	Coleoptile_24	NoPooling	53	milligrams fresh weight	16 RW wc 24h
+17 RW wc 24h	Wheat	Growth Chamber_Wheat	4 d Air + 24 h N2	Coleoptile_24	NoPooling	52	milligrams fresh weight	17 RW wc 24h
+18 RW wc 24h	Wheat	Growth Chamber_Wheat	4 d Air + 24 h N2	Coleoptile_24	NoPooling	63	milligrams fresh weight	18 RW wc 24h
+19 RW wc 24h	Wheat	Growth Chamber_Wheat	4 d Air + 24 h N2	Coleoptile_24	NoPooling	52	milligrams fresh weight	19 RW wc 24h
+20 RW wc 24h	Wheat	Growth Chamber_Wheat	4 d Air + 24 h N2	Coleoptile_24	NoPooling	56	milligrams fresh weight	20 RW wc 24h
+								

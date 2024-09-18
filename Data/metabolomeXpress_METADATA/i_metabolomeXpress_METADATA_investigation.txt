@@ -1,0 +1,96 @@
+ONTOLOGY SOURCE REFERENCE		
+Term Source Name	ENVO	NCBI
+Term Source File		
+Term Source Version	v 1.26	v 1.26
+Term Source Description	Environmental Ontology	NCBI Taxonomy
+INVESTIGATION		
+Investigation Identifier		
+Investigation Title		
+Investigation Description		
+Investigation Submission Date		
+Investigation Public Release Date		
+INVESTIGATION PUBLICATIONS		
+Investigation PubMed ID		
+Investigation Publication DOI		
+Investigation Publication Author list		
+Investigation Publication Title		
+Investigation Publication Status		
+Investigation Publication Status Term Accession Number		
+Investigation Publication Status Term Source REF		
+INVESTIGATION CONTACTS		
+Investigation Person Last Name		
+Investigation Person First Name		
+Investigation Person Mid Initials		
+Investigation Person Email		
+Investigation Person Phone		
+Investigation Person Fax		
+Investigation Person Address		
+Investigation Person Affiliation		
+Investigation Person Roles		
+Investigation Person Roles Term Accession Number		
+Investigation Person Roles Term Source REF		
+		
+STUDY		
+Study Identifier	TEST	
+Study Title	Rice & Wheat - coleoptile - 4, 8 and 24h anoxia_Shingaki-Wells (2011b)
+Study Submission Date	
+Study Public Release Date	31/05/2011
+Study Description	Coleoptiles from rice or wheat seedlings transferred from air to anoxia will exhibit a metabolic change that will intensify as the time of anoxic stress increases.Using a gas delivery system, rice and wheat seeds were germinated and grown under air for 4 days. Some plants were transferred to 4, 8 or 24 h anoxia (N2 gas). Coleoptiles were excised and metabolites analysed. 	
+Study File Name	s_metabolomeXpress_METADATA_study_sample.txt
+Comment [MetabolomeXpress ID]
+STUDY DESIGN DESCRIPTORS		
+Study Design Type	
+Study Design Type Term Accession Number	
+Study Design Type Term Source REF	
+STUDY PUBLICATIONS		
+Study PubMed ID	21622811
+Study Publication DOI		
+Study Publication Author list	Shingaki-Wells, R.N., Huang, S., Taylor, N.L., Carroll, A.J., Zhou, W. and Millar, A.H. 
+Study Publication Title	 Differential molecular responses of rice and wheat coleoptiles to anoxia reveal novel metabolic adaptations in amino acid metabolism for tissue tolerance. Plant Physiology.
+Study Publication Status		
+Study Publication Status Term Accession Number		
+Study Publication Status Term Source REF		
+STUDY FACTORS		
+Study Factor Name	
+Study Factor Type	
+Study Factor Type Term Accession Number	
+Study Factor Type Term Source REF	
+STUDY ASSAYS		
+Study Assay Measurement Type	metabolite profiling	
+Study Assay Measurement Type Term Accession Number		
+Study Assay Measurement Type Term Source REF		
+Study Assay Technology Type	mass spectrometry	
+Study Assay Technology Type Term Accession Number		
+Study Assay Technology Type Term Source REF		
+Study Assay Technology Platform
+Study Assay File Name	a_metabolomeXpress_METADATA_assay.txt
+STUDY PROTOCOLS
+Study Protocol Name	NoPooling	HotAqueousMethanol_1	MX_TMS_1	MX_TMS_2	mass spectrometry	metabolite identification
+
+Study Protocol Type	sample preparation	extraction	analytical sample preparation	analytical sample preparation	mass spectrometry	data transformation
+
+Study Protocol Type Term Accession Number		
+Study Protocol Type Term Source REF		
+Study Protocol Description	45-80 mg of frozen tissue was weighed out and placed into a pre-cooled 2 mL round-bottom Eppendorf tube. Stored in a 2 mL Eppendorf round-bottom polypropylene tube at -80 degrees C.           	To each tube containing frozen tissue, 500 uL of cold (-20 degrees C) Metabolite Extraction Medium [87% (v/v) HPLC grade MeOH (Sigma), 9% (v/v) untreated MilliQ H2O, 8.7 ug/mL ribitol] was added. Tubes were vortexed briefly, rapidly heated to 65 degrees C and shaken at 1400 RPM for 30 min. Tubes were then centrifuged at 20,000 g for 10 min to pellet insoluble material and 0.4 mL of supernatant was transferred into a new clear 2 mL round-bottom polypropylene Eppendorf tube and stored as a stock extract at -80 degrees C until further analysis. Extracts were taken out of the -80 degrees C freezer and allowed to warm to room temperature. After brief vortexing, 60 uL of extract was transferred to clean 1.5 mL clear polypropylene microfuge tubes before being evaporated to dryness under vacuum in a Labconco centrifugal evaporator without heating overnight for approx. 16 h. None Wet extracts were stored at -80 degrees C in 2 mL clear round-bottom polypropylene Eppendorf tubes. Dried extracts were not stored and used immediately in chromatography sample preparation protocols.         	Dried extracts were methoximated by adding 20 uL of a 20 mg/mL solution of methoxyamine hydrochloride in anhydrous pyridine (99.8 %, Sigma) and incubated at 30 degrees C for 1.5 h with shaking at 1400 RPM. For trimethylsilylation, 30 uL of N-methyl-N-(trimethylsilyl)trifluoroacetamide (MSTFA; Sigma) at room temperature was transferred to each tube and tubes were incubated at 37 degrees C for 30 min with 1400 RPM shaking. 10 uL of an n-alkane retention index calibration mixture [0.029% (v/v) n-dodecane, 0.029% (v/v) n-pentadecane, 0.029% (m/v) n-nonadecane, 0.029% (m/v) n-docosane, 0.029% (m/v) n-octacosane, 0.029% (m/v) n-dotracontane, and 0.029% (m/v) n-hexatriacontane dissolved in anhydrous pyridine] was then added to each tube, reaction mixtures were vortexed and transferred to amber GC-MS vials with low volume inserts and crimp-top seals and allowed to incubate at room temperature for at least 4 h prior to beginning GC-MS analysis.            	Dried extracts were methoximated by adding 20 uL of a 20 mg/mL solution of methoxyamine hydrochloride in anhydrous pyridine (99.8 %, Sigma) and incubated at 30 degrees C for 1.5 h with shaking at 1400 RPM. For trimethylsilylation, 30 uL of N-methyl-N-(trimethylsilyl)trifluoroacetamide (MSTFA; Sigma) at room temperature was transferred to each tube and tubes were incubated at 37 degrees C for 30 min with 1400 RPM shaking. 10 uL of an n-alkane retention index calibration mixture [0.029% (v/v) n-dodecane, 0.029% (v/v) n-pentadecane, 0.029% (m/v) n-nonadecane, 0.029% (m/v) n-docosane, 0.029% (m/v) n-octacosane, 0.029% (m/v) n-dotracontane, and 0.029% (m/v) n-hexatriacontane dissolved in anhydrous pyridine] was then added to each tube, reaction mixtures were vortexed and transferred to amber GC-MS vials with low volume inserts and crimp-top seals and allowed to incubate at room temperature for at least 4 h prior to beginning GC-MS analysis.            		
+
+Study Protocol URI		
+Study Protocol Version		
+Study Protocol Parameters Name	
+Study Protocol Parameters Name Term Accession Number	
+Study Protocol Parameters Name Term Source REF	
+Study Protocol Components Name
+Study Protocol Components Type
+Study Protocol Components Type Term Accession Number
+Study Protocol Components Type Term Source REF
+STUDY CONTACTS		
+Study Person Last Name	Shingaki-Wells	Carroll
+Study Person First Name	Rachel	Adam
+Study Person Mid Initials		
+Study Person Email	10504612@student.uwa.edu.au	Adam.Carroll@anu.edu.au
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation		
+Study Person Roles	experimentalist	data analyst
+Study Person Roles Term Accession Number	
+Study Person Roles Term Source REF	

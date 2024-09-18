@@ -1,0 +1,15 @@
+wta	WT	GrowthEnvironment1	WT	_	?	?	0.01	?	?	wta
+wtb	WT	GrowthEnvironment1	WT	_	?	?	0.01	?	?	wtb
+wtc	WT	GrowthEnvironment1	WT	_	?	?	0.01	?	?	wtc
+wtd	WT	GrowthEnvironment1	WT	_	?	?	0.01	?	?	wtd
+wte	WT	GrowthEnvironment1	WT	_	?	?	0.01	?	?	wte
+1994a	1994	GrowthEnvironment1	1994	_	?	?	0.01	?	?	1994a
+1994b	1994	GrowthEnvironment1	1994	_	?	?	0.01	?	?	1994b
+1994c	1994	GrowthEnvironment1	1994	_	?	?	0.01	?	?	1994c
+1994d	1994	GrowthEnvironment1	1994	_	?	?	0.01	?	?	1994d
+1994e	1994	GrowthEnvironment1	1994	_	?	?	0.01	?	?	1994e
+1492a	1492	GrowthEnvironment1	1492	_	?	?	0.01	?	?	1492a
+1492b	1492	GrowthEnvironment1	1492	_	?	?	0.01	?	?	1492b
+1492c	1492	GrowthEnvironment1	1492	_	?	?	0.01	?	?	1492c
+1492d	1492	GrowthEnvironment1	1492	_	?	?	0.01	?	?	1492d
+1492e	1492	GrowthEnvironment1	1492	_	?	?	0.01	?	?	1492e
